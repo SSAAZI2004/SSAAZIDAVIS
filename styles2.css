@@ -1,0 +1,41 @@
+body{
+	background-color:#825f7b
+}
+.xwx{
+	background-color:black;
+	color:white;
+	border-radius:10px;
+	text-align:center;
+	font-size:30px;
+}
+.red{
+	font-size:50px;
+	font-size:6s0px;
+	color:gold;
+	background-color:black;
+	text-align:center;
+	padding:5%;
+	border-radius:10px;
+}
+#section1{
+	padding:5%;
+	border-radius:10px;
+	padding:9px;
+	border:1px solid black;
+	border-radius:10px;
+	box-shadow:10px 10px 10px black;
+}
+.yello{
+	background-color:orange;
+	border-radius:10px;
+	text-align:center;
+}
+.e{
+	font-size:20px;
+margin:0;
+padding:4px;
+display:flex;
+justify-content:space-between;
+list-style:none
+	
+}

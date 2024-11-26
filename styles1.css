@@ -1,0 +1,24 @@
+
+div{
+	
+	text-align:center;
+	margin:5%;
+	background-color:#e8e3e3;
+	padding:9px;
+	border:1px solid black;
+	border-radius:10px;
+	box-shadow:10px 10px 10px black;
+	content:center
+}
+.vvv{
+	border-radius:50%;
+	   width:5%;transition-duration:1s;  
+    }  
+    
+.vvv:hover{   
+transform: rotate(30deg);  
+transform-origin
+}
+h2{
+	color:green
+}

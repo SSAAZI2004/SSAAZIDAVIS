@@ -1,0 +1,57 @@
+/*--demostrating using the element selector--*/
+body{
+	background-color:GREY;
+}
+/*--demostrating using the class selector--*/
+.HEADER{
+	background-color:black;
+	color:yellow;
+	text-align:center;
+	font-size:40px
+}
+/*demostrating using the id selector--*/
+#HEADER{
+	background-color:black;
+	color:white;
+text-align:center;
+}
+.FORM{
+	background-color:#e8e3e3;
+	padding:9px;
+	border:1px solid black;
+	border-left-color:red;
+	border-radius:10px;
+	box-shadow:10px 30px 40px black;
+	content:center
+}
+.img{
+	border-radius:50%;
+	   width:5%;
+		border:1px solid yellow;
+	
+}
+.davis{
+	overflow:hidden;
+	background:#333;
+
+
+	display:block;
+	color:#f2f2f2;
+	text-align:center;
+	padding:14px 16px;
+	text-decoration:none;
+}
+.y{
+	font-family:new times roman;
+}
+
+
+
+
+
+
+
+
+
+		
+		
